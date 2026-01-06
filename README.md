@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student still learning.<br>I'm currently making maps in Fortnite (using VERSE).<br>I'm learning C++, and I have learned Python and JavaScript in the past with the help of my teacher.<br>I have been coding since 2019. I love coding and programming.<br>I want to learn more and I could use help.<br>I'm lazy but when I have to work I'm focused.
+I'm a student still learning.<br>I'm currently making maps in Fortnite (using VERSE).<br>I'm learning C++, and I have learned Python and JavaScript in the past with the help of my teacher.<br>I have been coding since 2018. I love coding and programming.<br>I want to learn more and I could use help.<br>I'm lazy but when I have to work I'm focused.
 
 
 ## 🌐 Socials:
